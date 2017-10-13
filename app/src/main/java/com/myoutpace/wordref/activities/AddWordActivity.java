@@ -16,7 +16,7 @@ import com.myoutpace.wordref.data.Word;
 import com.myoutpace.wordref.data.WordListOperator;
 
 /**
- * Created by Shilpa Dhamdhere on 9/10/17.
+ * Created by Sachin Dhamdhere on 9/10/17.
  */
 
 public class AddWordActivity extends AppCompatActivity {
